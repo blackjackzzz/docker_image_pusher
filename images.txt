@@ -1,1 +1,2 @@
-openjdk:8u272-jdk
+eclipse-temurin:17-jre
+eclipse-temurin:21-jre
